@@ -1,0 +1,1 @@
+# lua-hammerspoon-switch-wifi-shortcut
