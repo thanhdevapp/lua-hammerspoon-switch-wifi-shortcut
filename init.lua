@@ -1,7 +1,7 @@
 -- Danh sách mạng Wi-Fi và mật khẩu tương ứng
 local wifi_networks = {
-    { ssid = "CRM team 3", password = "password" },
-    { ssid = "Link_T3_CRM", password = "kHongtHicHcHo@" }
+    { ssid = "CRM team 3", password = "2" },
+    { ssid = "Link_T3_CRM", password = "1" }
 }
 
 -- Biến theo dõi trạng thái mạng hiện tại
